@@ -1,4 +1,4 @@
-# Habit Tracker
+# BetterBits
 
 A modern, responsive habit tracking application built with React.js and TailwindCSS. Track your daily habits, monitor your progress, and build lasting routines with a beautiful and intuitive interface.
 
